@@ -1,0 +1,51 @@
+﻿@using HamburgerciUygulamasi.UI.Areas.CustomerArea.Models.VM
+@using HamburgerciUygulamasi.DAL.Enums
+@model OrderEditVM
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>Edit</h2>
+<div id="content">
+    <div class="col-md-12 top-20 padding-0">
+        <div class="col-md-12">
+            <div class="panel">
+                <div class="row">
+                    <div class="col-md-4">
+                        <h2>Edit Order</h2>
+                        <form asp-action="Edit" asp-controller="Order" asp-area="CustomerArea" method="post" enctype="multipart/form-data">
+                            <input type="hidden" asp-for="OrderEditItem.Id" />
+                            <div class="mb-3">
+                                <label>Menu:</label>
+                                <select class="form-control" asp-for="OrderEditItem.Menu" asp-items="@(new SelectList(Model.Menus, "Id", "Name"))" multiple>
+                                </select>
+                            </div>
+                            <div class="mb-3">
+                                <label>Extra:</label>
+                                <select class="form-control" asp-for="OrderEditItem.Extra" asp-items="@(new SelectList(Model.Extras, "Id", "Name"))" multiple>
+                                </select>
+                            </div>
+                            <div class="mb-3">
+                                <label asp-for="OrderEditItem.Size"></label>
+                                <select asp-for="OrderEditItem.Size" class="form-control">
+                                    <option value="Small">Small</option>
+                                    <option value="Medium">Medium</option>
+                                    <option value="Large">Large</option>
+                                </select>
+                                <span asp-validation-for="OrderEditItem.Size" class="text-danger"></span>
+                            </div>
+                            <div class="mb-3">
+                                <label asp-for="OrderEditItem.Quantity"></label>
+                                <input asp-for="OrderEditItem.Quantity" class="form-control" type="number" min="1" required />
+                                <span asp-validation-for="OrderEditItem.Quantity" class="text-danger"></span>
+                            </div>
+
+
+                            <button class="btn btn-primary" type="submit">Update Order</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,55 @@
+﻿@using HamburgerciUygulamasi.DAL.Enums
+@using HamburgerciUygulamasi.UI.Areas.CustomerArea.Models.VM
+@model OrderAddVM
+@{
+    ViewData["Title"] = "Add";
+}
+
+<h2>Add</h2>
+<div id="content">
+    <div class="col-md-12 top-20 padding-0">
+        <div class="col-md-12">
+            <div class="panel">
+                <div class="row">
+                    <div class="col-md-4">
+                        <h2>Add Order</h2>
+                        <form asp-action="Add" asp-controller="Order" asp-area="CustomerArea" method="post" enctype="multipart/form-data">
+                            <div class="mb-3">
+                                <label asp-for="MenuIds" class="control-label">Select Menu</label>
+                                <select asp-for="MenuIds" class="form-control" asp-items="@(new SelectList(ViewBag.Menu, "Value", "Text"))" multiple>
+                                </select>
+                                <span asp-validation-for="MenuIds" class="text-danger"></span>
+                            </div>
+                            <div class="mb-3">
+                                <label asp-for="ExtraIds" class="control-label">Select Extra</label>
+                                <select asp-for="ExtraIds" class="form-control" asp-items="@(new SelectList(ViewBag.Extra, "Value", "Text"))" multiple>
+                                </select>
+                                <span asp-validation-for="ExtraIds" class="text-danger"></span>
+                            </div>
+                            
+                           
+
+                            <div class="form-group">
+                                <label for="size">Size:</label>
+                                <select class="form-control" id="size" name="size">
+                                    @foreach (Size size in Enum.GetValues(typeof(Size)))
+                                    {
+                                        <option value="@size">@size</option>
+                                    }
+                                </select>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="quantity">Quantity:</label>
+                                <input class="form-control" type="number" id="quantity" name="quantity" min="1" required>
+                            </div>
+
+                            <button class="btn btn-primary" type="submit">Add Order</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,15 @@
+C:\Users\merve\Desktop\.Net Eğitimi\Projeler\HamburgerciUygulamasi\HamburgerciUygulamasi.BLL\bin\Debug\net7.0\HamburgerciUygulamasi.BLL.deps.json
+C:\Users\merve\Desktop\.Net Eğitimi\Projeler\HamburgerciUygulamasi\HamburgerciUygulamasi.BLL\bin\Debug\net7.0\HamburgerciUygulamasi.BLL.dll
+C:\Users\merve\Desktop\.Net Eğitimi\Projeler\HamburgerciUygulamasi\HamburgerciUygulamasi.BLL\bin\Debug\net7.0\HamburgerciUygulamasi.BLL.pdb
+C:\Users\merve\Desktop\.Net Eğitimi\Projeler\HamburgerciUygulamasi\HamburgerciUygulamasi.BLL\obj\Debug\net7.0\HamburgerciUygulamasi.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\Desktop\.Net Eğitimi\Projeler\HamburgerciUygulamasi\HamburgerciUygulamasi.BLL\obj\Debug\net7.0\HamburgerciUygulamasi.BLL.AssemblyInfoInputs.cache
+C:\Users\merve\Desktop\.Net Eğitimi\Projeler\HamburgerciUygulamasi\HamburgerciUygulamasi.BLL\obj\Debug\net7.0\HamburgerciUygulamasi.BLL.AssemblyInfo.cs
+C:\Users\merve\Desktop\.Net Eğitimi\Projeler\HamburgerciUygulamasi\HamburgerciUygulamasi.BLL\obj\Debug\net7.0\HamburgerciUygulamasi.BLL.csproj.CoreCompileInputs.cache
+C:\Users\merve\Desktop\.Net Eğitimi\Projeler\HamburgerciUygulamasi\HamburgerciUygulamasi.BLL\obj\Debug\net7.0\HamburgerciUygulamasi.BLL.dll
+C:\Users\merve\Desktop\.Net Eğitimi\Projeler\HamburgerciUygulamasi\HamburgerciUygulamasi.BLL\obj\Debug\net7.0\refint\HamburgerciUygulamasi.BLL.dll
+C:\Users\merve\Desktop\.Net Eğitimi\Projeler\HamburgerciUygulamasi\HamburgerciUygulamasi.BLL\obj\Debug\net7.0\HamburgerciUygulamasi.BLL.pdb
+C:\Users\merve\Desktop\.Net Eğitimi\Projeler\HamburgerciUygulamasi\HamburgerciUygulamasi.BLL\obj\Debug\net7.0\ref\HamburgerciUygulamasi.BLL.dll
+C:\Users\merve\Desktop\.Net Eğitimi\Projeler\HamburgerciUygulamasi\HamburgerciUygulamasi.BLL\obj\Debug\net7.0\HamburgerciUygulamasi.BLL.csproj.AssemblyReference.cache
+C:\Users\merve\Desktop\.Net Eğitimi\Projeler\HamburgerciUygulamasi\HamburgerciUygulamasi.BLL\bin\Debug\net7.0\HamburgerciUygulamasi.DAL.dll
+C:\Users\merve\Desktop\.Net Eğitimi\Projeler\HamburgerciUygulamasi\HamburgerciUygulamasi.BLL\bin\Debug\net7.0\HamburgerciUygulamasi.DAL.pdb
+C:\Users\merve\Desktop\.Net Eğitimi\Projeler\HamburgerciUygulamasi\HamburgerciUygulamasi.BLL\obj\Debug\net7.0\Hamburge.10043861.Up2Date

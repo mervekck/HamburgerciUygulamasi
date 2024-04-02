@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\merve\\Desktop\\.Net E\u011Fitimi\\Projeler\\HamburgerciUygulamasi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{551EA8D0-2D53-4AA5-9727-0FA7DE086F02}|HamburgerciUygulamasi.UI\\HamburgerciUygulamasi.UI.csproj|C:\\Users\\merve\\Desktop\\.Net E\u011Fitimi\\Projeler\\HamburgerciUygulamasi\\hamburgerciuygulamasi.ui\\areas\\customerarea\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551EA8D0-2D53-4AA5-9727-0FA7DE086F02}|HamburgerciUygulamasi.UI\\HamburgerciUygulamasi.UI.csproj|solutionrelative:hamburgerciuygulamasi.ui\\areas\\customerarea\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAC61E4-DC00-4CC9-8AD9-E0B3B36B9E31}|HamburgerciUygulamasi.DAL\\HamburgerciUygulamasi.DAL.csproj|c:\\users\\merve\\desktop\\.net e\u011Fitimi\\projeler\\hamburgerciuygulamasi\\hamburgerciuygulamasi.dal\\entities\\concrete\\extra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAC61E4-DC00-4CC9-8AD9-E0B3B36B9E31}|HamburgerciUygulamasi.DAL\\HamburgerciUygulamasi.DAL.csproj|solutionrelative:hamburgerciuygulamasi.dal\\entities\\concrete\\extra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551EA8D0-2D53-4AA5-9727-0FA7DE086F02}|HamburgerciUygulamasi.UI\\HamburgerciUygulamasi.UI.csproj|C:\\Users\\merve\\Desktop\\.Net E\u011Fitimi\\Projeler\\HamburgerciUygulamasi\\hamburgerciuygulamasi.ui\\areas\\customerarea\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{551EA8D0-2D53-4AA5-9727-0FA7DE086F02}|HamburgerciUygulamasi.UI\\HamburgerciUygulamasi.UI.csproj|solutionrelative:hamburgerciuygulamasi.ui\\areas\\customerarea\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551EA8D0-2D53-4AA5-9727-0FA7DE086F02}|HamburgerciUygulamasi.UI\\HamburgerciUygulamasi.UI.csproj|c:\\users\\merve\\desktop\\.net e\u011Fitimi\\projeler\\hamburgerciuygulamasi\\hamburgerciuygulamasi.ui\\profiles\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551EA8D0-2D53-4AA5-9727-0FA7DE086F02}|HamburgerciUygulamasi.UI\\HamburgerciUygulamasi.UI.csproj|solutionrelative:hamburgerciuygulamasi.ui\\profiles\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551EA8D0-2D53-4AA5-9727-0FA7DE086F02}|HamburgerciUygulamasi.UI\\HamburgerciUygulamasi.UI.csproj|C:\\Users\\merve\\Desktop\\.Net E\u011Fitimi\\Projeler\\HamburgerciUygulamasi\\hamburgerciuygulamasi.ui\\areas\\customerarea\\models\\vm\\ordereditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551EA8D0-2D53-4AA5-9727-0FA7DE086F02}|HamburgerciUygulamasi.UI\\HamburgerciUygulamasi.UI.csproj|solutionrelative:hamburgerciuygulamasi.ui\\areas\\customerarea\\models\\vm\\ordereditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAC61E4-DC00-4CC9-8AD9-E0B3B36B9E31}|HamburgerciUygulamasi.DAL\\HamburgerciUygulamasi.DAL.csproj|c:\\users\\merve\\desktop\\.net e\u011Fitimi\\projeler\\hamburgerciuygulamasi\\hamburgerciuygulamasi.dal\\entities\\concrete\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAC61E4-DC00-4CC9-8AD9-E0B3B36B9E31}|HamburgerciUygulamasi.DAL\\HamburgerciUygulamasi.DAL.csproj|solutionrelative:hamburgerciuygulamasi.dal\\entities\\concrete\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BC0FA9-9809-4C9F-8F59-7C644409C2A2}|HamburgerciUygulamasi.BLL\\HamburgerciUygulamasi.BLL.csproj|c:\\users\\merve\\desktop\\.net e\u011Fitimi\\projeler\\hamburgerciuygulamasi\\hamburgerciuygulamasi.bll\\repositories\\concrete\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BC0FA9-9809-4C9F-8F59-7C644409C2A2}|HamburgerciUygulamasi.BLL\\HamburgerciUygulamasi.BLL.csproj|solutionrelative:hamburgerciuygulamasi.bll\\repositories\\concrete\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551EA8D0-2D53-4AA5-9727-0FA7DE086F02}|HamburgerciUygulamasi.UI\\HamburgerciUygulamasi.UI.csproj|c:\\users\\merve\\desktop\\.net e\u011Fitimi\\projeler\\hamburgerciuygulamasi\\hamburgerciuygulamasi.ui\\areas\\customerarea\\views\\order\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{551EA8D0-2D53-4AA5-9727-0FA7DE086F02}|HamburgerciUygulamasi.UI\\HamburgerciUygulamasi.UI.csproj|solutionrelative:hamburgerciuygulamasi.ui\\areas\\customerarea\\views\\order\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Extra.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\.Net E\u011Fitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.DAL\\Entities\\Concrete\\Extra.cs",
+              "RelativeDocumentMoniker": "HamburgerciUygulamasi.DAL\\Entities\\Concrete\\Extra.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\.Net E\u011Fitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.DAL\\Entities\\Concrete\\Extra.cs",
+              "RelativeToolTip": "HamburgerciUygulamasi.DAL\\Entities\\Concrete\\Extra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:01:49.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\.Net E\u011Fitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.DAL\\Entities\\Concrete\\Order.cs",
+              "RelativeDocumentMoniker": "HamburgerciUygulamasi.DAL\\Entities\\Concrete\\Order.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\.Net E\u011Fitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.DAL\\Entities\\Concrete\\Order.cs",
+              "RelativeToolTip": "HamburgerciUygulamasi.DAL\\Entities\\Concrete\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:59:30.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\.Net E\u011Fitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.BLL\\Repositories\\Concrete\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "HamburgerciUygulamasi.BLL\\Repositories\\Concrete\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\.Net E\u011Fitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.BLL\\Repositories\\Concrete\\BaseRepository.cs",
+              "RelativeToolTip": "HamburgerciUygulamasi.BLL\\Repositories\\Concrete\\BaseRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:56:35.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\.Net E\u011Fitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\Areas\\CustomerArea\\Views\\Order\\Add.cshtml",
+              "RelativeDocumentMoniker": "HamburgerciUygulamasi.UI\\Areas\\CustomerArea\\Views\\Order\\Add.cshtml",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\.Net E\u011Fitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\Areas\\CustomerArea\\Views\\Order\\Add.cshtml",
+              "RelativeToolTip": "HamburgerciUygulamasi.UI\\Areas\\CustomerArea\\Views\\Order\\Add.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T11:37:13.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\.Net E\u011Fitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\Profiles\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "HamburgerciUygulamasi.UI\\Profiles\\MapperProfile.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\.Net E\u011Fitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\Profiles\\MapperProfile.cs",
+              "RelativeToolTip": "HamburgerciUygulamasi.UI\\Profiles\\MapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:30:15.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderEditVM.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\.Net E\u011Fitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\Areas\\CustomerArea\\Models\\VM\\OrderEditVM.cs",
+              "RelativeDocumentMoniker": "HamburgerciUygulamasi.UI\\Areas\\CustomerArea\\Models\\VM\\OrderEditVM.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\.Net E\u011Fitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\Areas\\CustomerArea\\Models\\VM\\OrderEditVM.cs",
+              "RelativeToolTip": "HamburgerciUygulamasi.UI\\Areas\\CustomerArea\\Models\\VM\\OrderEditVM.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T22:04:11.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\.Net E\u011Fitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\Areas\\CustomerArea\\Views\\Order\\Edit.cshtml",
+              "RelativeDocumentMoniker": "HamburgerciUygulamasi.UI\\Areas\\CustomerArea\\Views\\Order\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\.Net E\u011Fitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\Areas\\CustomerArea\\Views\\Order\\Edit.cshtml",
+              "RelativeToolTip": "HamburgerciUygulamasi.UI\\Areas\\CustomerArea\\Views\\Order\\Edit.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-30T21:32:02.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\.Net E\u011Fitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\Areas\\CustomerArea\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "HamburgerciUygulamasi.UI\\Areas\\CustomerArea\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\.Net E\u011Fitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\Areas\\CustomerArea\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "HamburgerciUygulamasi.UI\\Areas\\CustomerArea\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAMcAAAAAAAAAAAAmwOAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T21:10:34.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

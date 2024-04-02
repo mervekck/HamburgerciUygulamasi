@@ -1,0 +1,234 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\HamburgerciUygulamasi.UI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.BLL\\HamburgerciUygulamasi.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.BLL\\HamburgerciUygulamasi.BLL.csproj",
+        "projectName": "HamburgerciUygulamasi.BLL",
+        "projectPath": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.BLL\\HamburgerciUygulamasi.BLL.csproj",
+        "packagesPath": "C:\\Users\\merve\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\merve\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.DAL\\HamburgerciUygulamasi.DAL.csproj": {
+                "projectPath": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.DAL\\HamburgerciUygulamasi.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.DAL\\HamburgerciUygulamasi.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.DAL\\HamburgerciUygulamasi.DAL.csproj",
+        "projectName": "HamburgerciUygulamasi.DAL",
+        "projectPath": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.DAL\\HamburgerciUygulamasi.DAL.csproj",
+        "packagesPath": "C:\\Users\\merve\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\merve\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\HamburgerciUygulamasi.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\HamburgerciUygulamasi.UI.csproj",
+        "projectName": "HamburgerciUygulamasi.UI",
+        "projectPath": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\HamburgerciUygulamasi.UI.csproj",
+        "packagesPath": "C:\\Users\\merve\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\merve\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.BLL\\HamburgerciUygulamasi.BLL.csproj": {
+                "projectPath": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.BLL\\HamburgerciUygulamasi.BLL.csproj"
+              },
+              "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.DAL\\HamburgerciUygulamasi.DAL.csproj": {
+                "projectPath": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.DAL\\HamburgerciUygulamasi.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.17, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

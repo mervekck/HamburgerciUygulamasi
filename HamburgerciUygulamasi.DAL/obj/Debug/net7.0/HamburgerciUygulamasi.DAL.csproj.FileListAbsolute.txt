@@ -1,0 +1,14 @@
+C:\Users\merve\Desktop\.Net Eğitimi\Projeler\HamburgerciUygulamasi\HamburgerciUygulamasi.DAL\obj\Debug\net7.0\HamburgerciUygulamasi.DAL.csproj.AssemblyReference.cache
+C:\Users\merve\Desktop\.Net Eğitimi\Projeler\HamburgerciUygulamasi\HamburgerciUygulamasi.DAL\obj\Debug\net7.0\HamburgerciUygulamasi.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\Desktop\.Net Eğitimi\Projeler\HamburgerciUygulamasi\HamburgerciUygulamasi.DAL\obj\Debug\net7.0\HamburgerciUygulamasi.DAL.AssemblyInfoInputs.cache
+C:\Users\merve\Desktop\.Net Eğitimi\Projeler\HamburgerciUygulamasi\HamburgerciUygulamasi.DAL\obj\Debug\net7.0\HamburgerciUygulamasi.DAL.AssemblyInfo.cs
+C:\Users\merve\Desktop\.Net Eğitimi\Projeler\HamburgerciUygulamasi\HamburgerciUygulamasi.DAL\obj\Debug\net7.0\HamburgerciUygulamasi.DAL.csproj.CoreCompileInputs.cache
+C:\Users\merve\Desktop\.Net Eğitimi\Projeler\HamburgerciUygulamasi\HamburgerciUygulamasi.DAL\bin\Debug\net7.0\HamburgerciUygulamasi.DAL.deps.json
+C:\Users\merve\Desktop\.Net Eğitimi\Projeler\HamburgerciUygulamasi\HamburgerciUygulamasi.DAL\bin\Debug\net7.0\HamburgerciUygulamasi.DAL.runtimeconfig.json
+C:\Users\merve\Desktop\.Net Eğitimi\Projeler\HamburgerciUygulamasi\HamburgerciUygulamasi.DAL\bin\Debug\net7.0\HamburgerciUygulamasi.DAL.dll
+C:\Users\merve\Desktop\.Net Eğitimi\Projeler\HamburgerciUygulamasi\HamburgerciUygulamasi.DAL\bin\Debug\net7.0\HamburgerciUygulamasi.DAL.pdb
+C:\Users\merve\Desktop\.Net Eğitimi\Projeler\HamburgerciUygulamasi\HamburgerciUygulamasi.DAL\obj\Debug\net7.0\HamburgerciUygulamasi.DAL.dll
+C:\Users\merve\Desktop\.Net Eğitimi\Projeler\HamburgerciUygulamasi\HamburgerciUygulamasi.DAL\obj\Debug\net7.0\refint\HamburgerciUygulamasi.DAL.dll
+C:\Users\merve\Desktop\.Net Eğitimi\Projeler\HamburgerciUygulamasi\HamburgerciUygulamasi.DAL\obj\Debug\net7.0\HamburgerciUygulamasi.DAL.pdb
+C:\Users\merve\Desktop\.Net Eğitimi\Projeler\HamburgerciUygulamasi\HamburgerciUygulamasi.DAL\obj\Debug\net7.0\HamburgerciUygulamasi.DAL.genruntimeconfig.cache
+C:\Users\merve\Desktop\.Net Eğitimi\Projeler\HamburgerciUygulamasi\HamburgerciUygulamasi.DAL\obj\Debug\net7.0\ref\HamburgerciUygulamasi.DAL.dll

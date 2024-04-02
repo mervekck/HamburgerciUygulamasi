@@ -1,0 +1,1641 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\HamburgerciUygulamasi.UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HamburgerciUygulamasi.UI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\asset\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\jquery.ui.min.css",
+      "PackagePath": "staticwebassets\\asset\\css\\jquery.ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\animate.min.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\bootstrap-material-datetimepicker.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\bootstrap-material-datetimepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\codemirror.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\codemirror.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\datatables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\datatables.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\dropzone.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\dropzone.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\fullcalendar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\handsontable.full.min.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\handsontable.full.min.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\hover.min.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\hover.min.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\all.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\flat\\_all.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\flat\\_all.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\flat\\aero.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\flat\\aero.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\flat\\aero.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\flat\\aero.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\flat\\aero@2x.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\flat\\aero@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\flat\\blue.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\flat\\blue.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\flat\\blue.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\flat\\blue.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\flat\\blue@2x.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\flat\\blue@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\flat\\flat.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\flat\\flat.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\flat\\flat.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\flat\\flat.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\flat\\flat@2x.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\flat\\flat@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\flat\\green.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\flat\\green.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\flat\\green.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\flat\\green.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\flat\\green@2x.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\flat\\green@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\flat\\grey.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\flat\\grey.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\flat\\grey.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\flat\\grey.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\flat\\grey@2x.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\flat\\grey@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\flat\\orange.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\flat\\orange.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\flat\\orange.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\flat\\orange.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\flat\\orange@2x.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\flat\\orange@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\flat\\pink.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\flat\\pink.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\flat\\pink.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\flat\\pink.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\flat\\pink@2x.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\flat\\pink@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\flat\\purple.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\flat\\purple.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\flat\\purple.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\flat\\purple.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\flat\\purple@2x.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\flat\\purple@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\flat\\red.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\flat\\red.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\flat\\red.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\flat\\red.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\flat\\red@2x.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\flat\\red@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\flat\\yellow.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\flat\\yellow.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\flat\\yellow.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\flat\\yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\flat\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\flat\\yellow@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\futurico\\futurico.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\futurico\\futurico.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\futurico\\futurico.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\futurico\\futurico.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\futurico\\futurico@2x.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\futurico\\futurico@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\line\\_all.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\line\\_all.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\line\\aero.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\line\\aero.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\line\\blue.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\line\\blue.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\line\\green.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\line\\green.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\line\\grey.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\line\\grey.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\line\\line.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\line\\line.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\line\\line.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\line\\line.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\line\\line@2x.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\line\\line@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\line\\orange.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\line\\orange.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\line\\pink.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\line\\pink.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\line\\purple.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\line\\purple.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\line\\red.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\line\\red.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\line\\yellow.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\line\\yellow.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\minimal\\_all.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\minimal\\_all.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\minimal\\aero.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\minimal\\aero.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\minimal\\aero.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\minimal\\aero.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\minimal\\aero@2x.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\minimal\\aero@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\minimal\\blue.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\minimal\\blue.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\minimal\\blue.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\minimal\\blue.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\minimal\\blue@2x.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\minimal\\blue@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\minimal\\green.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\minimal\\green.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\minimal\\green.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\minimal\\green.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\minimal\\green@2x.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\minimal\\green@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\minimal\\grey.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\minimal\\grey.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\minimal\\grey.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\minimal\\grey.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\minimal\\grey@2x.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\minimal\\grey@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\minimal\\minimal.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\minimal\\minimal.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\minimal\\minimal.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\minimal\\minimal.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\minimal\\minimal@2x.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\minimal\\minimal@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\minimal\\orange.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\minimal\\orange.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\minimal\\orange.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\minimal\\orange.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\minimal\\orange@2x.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\minimal\\orange@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\minimal\\pink.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\minimal\\pink.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\minimal\\pink.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\minimal\\pink.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\minimal\\pink@2x.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\minimal\\pink@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\minimal\\purple.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\minimal\\purple.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\minimal\\purple.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\minimal\\purple.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\minimal\\purple@2x.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\minimal\\purple@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\minimal\\red.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\minimal\\red.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\minimal\\red.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\minimal\\red.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\minimal\\red@2x.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\minimal\\red@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\minimal\\yellow.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\minimal\\yellow.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\minimal\\yellow.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\minimal\\yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\minimal\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\minimal\\yellow@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\polaris\\polaris.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\polaris\\polaris.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\polaris\\polaris.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\polaris\\polaris.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\polaris\\polaris@2x.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\polaris\\polaris@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\square\\_all.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\square\\_all.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\square\\aero.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\square\\aero.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\square\\aero.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\square\\aero.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\square\\aero@2x.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\square\\aero@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\square\\blue.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\square\\blue.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\square\\blue.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\square\\blue.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\square\\blue@2x.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\square\\blue@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\square\\green.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\square\\green.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\square\\green.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\square\\green.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\square\\green@2x.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\square\\green@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\square\\grey.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\square\\grey.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\square\\grey.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\square\\grey.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\square\\grey@2x.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\square\\grey@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\square\\orange.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\square\\orange.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\square\\orange.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\square\\orange.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\square\\orange@2x.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\square\\orange@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\square\\pink.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\square\\pink.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\square\\pink.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\square\\pink.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\square\\pink@2x.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\square\\pink@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\square\\purple.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\square\\purple.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\square\\purple.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\square\\purple.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\square\\purple@2x.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\square\\purple@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\square\\red.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\square\\red.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\square\\red.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\square\\red.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\square\\red@2x.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\square\\red@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\square\\square.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\square\\square.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\square\\square.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\square\\square.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\square\\square@2x.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\square\\square@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\square\\yellow.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\square\\yellow.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\square\\yellow.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\square\\yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\icheck\\skins\\square\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\icheck\\skins\\square\\yellow@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\ionrangeslider\\ion.rangeSlider.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\ionrangeslider\\ion.rangeSlider.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\ionrangeslider\\ion.rangeSlider.skinFlat.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\ionrangeslider\\ion.rangeSlider.skinFlat.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\ionrangeslider\\ion.rangeSlider.skinHTML5.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\ionrangeslider\\ion.rangeSlider.skinHTML5.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\ionrangeslider\\ion.rangeSlider.skinModern.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\ionrangeslider\\ion.rangeSlider.skinModern.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\ionrangeslider\\ion.rangeSlider.skinNice.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\ionrangeslider\\ion.rangeSlider.skinNice.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\ionrangeslider\\ion.rangeSlider.skinSimple.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\ionrangeslider\\ion.rangeSlider.skinSimple.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\ionrangeslider\\normalize.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\ionrangeslider\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\jquery.steps.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\jquery.steps.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\mediaelementplayer.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\mediaelementplayer.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\normalize.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\nouislider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\select2.min.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\simple-line-icons.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\simple-line-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\spinkit.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\spinkit.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\summernote.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\summernote.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\plugins\\typebase.css",
+      "PackagePath": "staticwebassets\\asset\\css\\plugins\\typebase.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\css\\style.css",
+      "PackagePath": "staticwebassets\\asset\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\fonts\\Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\fonts\\Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\fonts\\Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\fonts\\Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\fonts\\Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\asset\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\asset\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\asset\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\asset\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\asset\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\asset\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\asset\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\asset\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\img\\404.png",
+      "PackagePath": "staticwebassets\\asset\\img\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\img\\500.png",
+      "PackagePath": "staticwebassets\\asset\\img\\500.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\img\\avatar.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\asset\\img\\avatar2.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\asset\\img\\avatar3.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\img\\bg.svg",
+      "PackagePath": "staticwebassets\\asset\\img\\bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\img\\bg1.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\bg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\img\\bg2.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\bg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\img\\bg3.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\bg3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\img\\bg4.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\bg4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\img\\bigplay.svg",
+      "PackagePath": "staticwebassets\\asset\\img\\bigplay.svg"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\img\\controls.png",
+      "PackagePath": "staticwebassets\\asset\\img\\controls.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\img\\controls.svg",
+      "PackagePath": "staticwebassets\\asset\\img\\controls.svg"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\img\\demo-video.png",
+      "PackagePath": "staticwebassets\\asset\\img\\demo-video.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\img\\g3986.png",
+      "PackagePath": "staticwebassets\\asset\\img\\g3986.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\img\\left-bg.png",
+      "PackagePath": "staticwebassets\\asset\\img\\left-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\img\\left-bg2.png",
+      "PackagePath": "staticwebassets\\asset\\img\\left-bg2.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\img\\logomi.png",
+      "PackagePath": "staticwebassets\\asset\\img\\logomi.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\img\\sprite-skin-flat.png",
+      "PackagePath": "staticwebassets\\asset\\img\\sprite-skin-flat.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\img\\sprite-skin-modern.png",
+      "PackagePath": "staticwebassets\\asset\\img\\sprite-skin-modern.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\img\\sprite-skin-nice.png",
+      "PackagePath": "staticwebassets\\asset\\img\\sprite-skin-nice.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\img\\sprite-skin-simple.png",
+      "PackagePath": "staticwebassets\\asset\\img\\sprite-skin-simple.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\img\\ss.png",
+      "PackagePath": "staticwebassets\\asset\\img\\ss.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\jquery.ui.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\jquery.ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\main.js",
+      "PackagePath": "staticwebassets\\asset\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\bootstrap-material-datetimepicker.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\bootstrap-material-datetimepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\chart.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\clipboard.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\clipboard.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\codemirror.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\codemirror.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\datatables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\datatables.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\dropzone.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\dropzone.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flashmediaelement.swf",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flashmediaelement.swf"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\ajax\\data-eu-gdp-growth-1.json",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\ajax\\data-eu-gdp-growth-1.json"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\ajax\\data-eu-gdp-growth-2.json",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\ajax\\data-eu-gdp-growth-2.json"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\ajax\\data-eu-gdp-growth-3.json",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\ajax\\data-eu-gdp-growth-3.json"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\ajax\\data-eu-gdp-growth-4.json",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\ajax\\data-eu-gdp-growth-4.json"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\ajax\\data-eu-gdp-growth-5.json",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\ajax\\data-eu-gdp-growth-5.json"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\ajax\\data-eu-gdp-growth.json",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\ajax\\data-eu-gdp-growth.json"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\ajax\\data-japan-gdp-growth.json",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\ajax\\data-japan-gdp-growth.json"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\ajax\\data-usa-gdp-growth.json",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\ajax\\data-usa-gdp-growth.json"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\ajax\\index.html",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\ajax\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\annotating\\index.html",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\annotating\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\axes-interacting\\index.html",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\axes-interacting\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\axes-multiple\\index.html",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\axes-multiple\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\date.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\date.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\index.html",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz\\africa",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz\\antarctica",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz\\asia",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz\\australasia",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz\\backward",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz\\etcetera",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz\\europe",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz\\factory",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz\\iso3166.tab",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz\\iso3166.tab"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz\\leapseconds",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz\\northamerica",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz\\pacificnew",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz\\solar87",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz\\solar88",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz\\solar89",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz\\southamerica",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz\\systemv",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz\\yearistype.sh",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz\\yearistype.sh"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz\\zone.tab",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\axes-time-zones\\tz\\zone.tab"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\axes-time\\index.html",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\axes-time\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\background.png",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\basic-options\\index.html",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\basic-options\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\basic-usage\\index.html",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\basic-usage\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\canvas\\index.html",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\canvas\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\categories\\index.html",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\categories\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\examples.css",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\examples.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\image\\hs-2004-27-a-large-web.jpg",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\image\\hs-2004-27-a-large-web.jpg"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\image\\index.html",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\image\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\index.html",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\interacting\\index.html",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\interacting\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\navigate\\arrow-down.gif",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\navigate\\arrow-down.gif"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\navigate\\arrow-left.gif",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\navigate\\arrow-left.gif"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\navigate\\arrow-right.gif",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\navigate\\arrow-right.gif"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\navigate\\arrow-up.gif",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\navigate\\arrow-up.gif"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\navigate\\index.html",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\navigate\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\percentiles\\index.html",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\percentiles\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\realtime\\index.html",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\realtime\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\resize\\index.html",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\resize\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\selection\\index.html",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\selection\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\series-errorbars\\index.html",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\series-errorbars\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\series-pie\\index.html",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\series-pie\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\series-toggle\\index.html",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\series-toggle\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\series-types\\index.html",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\series-types\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\shared\\jquery-ui\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\shared\\jquery-ui\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\shared\\jquery-ui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\shared\\jquery-ui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\stacking\\index.html",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\stacking\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\symbols\\index.html",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\symbols\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\threshold\\index.html",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\threshold\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\tracking\\index.html",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\tracking\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\visitors\\index.html",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\visitors\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\examples\\zooming\\index.html",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\examples\\zooming\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\excanvas.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\excanvas.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\excanvas.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\excanvas.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.colorhelpers.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.colorhelpers.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.colorhelpers.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.colorhelpers.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.flot.canvas.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.flot.canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.flot.canvas.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.flot.canvas.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.flot.categories.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.flot.categories.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.flot.categories.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.flot.categories.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.flot.crosshair.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.flot.crosshair.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.flot.crosshair.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.flot.crosshair.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.flot.errorbars.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.flot.errorbars.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.flot.errorbars.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.flot.errorbars.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.flot.fillbetween.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.flot.fillbetween.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.flot.fillbetween.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.flot.fillbetween.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.flot.image.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.flot.image.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.flot.image.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.flot.image.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.flot.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.flot.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.flot.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.flot.navigate.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.flot.navigate.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.flot.navigate.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.flot.navigate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.flot.pie.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.flot.pie.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.flot.pie.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.flot.resize.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.flot.resize.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.flot.resize.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.flot.resize.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.flot.selection.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.flot.selection.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.flot.selection.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.flot.selection.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.flot.stack.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.flot.stack.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.flot.stack.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.flot.stack.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.flot.symbol.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.flot.symbol.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.flot.symbol.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.flot.symbol.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.flot.threshold.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.flot.threshold.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.flot.threshold.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.flot.threshold.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.flot.time.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.flot.time.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.flot.time.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.flot.time.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\flot\\jquery.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\flot\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\handsontable.full.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\handsontable.full.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\holder.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\holder.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\html5shiv.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\html5shiv.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\icheck.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\icheck.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\ie9.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\ie9.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\jquery.datatables.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\jquery.datatables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\jquery.flot.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\jquery.flot.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\jquery.knob.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\jquery.knob.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\jquery.mask.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\jquery.mask.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\jquery.mobile-1.4.5.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\jquery.mobile-1.4.5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\jquery.nicescroll.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\jquery.nicescroll.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\jquery.steps.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\jquery.steps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\jquery.vmap.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\jquery.vmap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\jquery.vmap.sampledata.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\jquery.vmap.sampledata.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\jquery.vmap.world.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\jquery.vmap.world.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\maps\\continents\\jquery.vmap.africa.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\maps\\continents\\jquery.vmap.africa.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\maps\\continents\\jquery.vmap.asia.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\maps\\continents\\jquery.vmap.asia.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\maps\\continents\\jquery.vmap.australia.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\maps\\continents\\jquery.vmap.australia.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\maps\\continents\\jquery.vmap.europe.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\maps\\continents\\jquery.vmap.europe.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\maps\\continents\\jquery.vmap.north-america.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\maps\\continents\\jquery.vmap.north-america.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\maps\\continents\\jquery.vmap.south-america.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\maps\\continents\\jquery.vmap.south-america.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\maps\\continents\\readme.txt",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\maps\\continents\\readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\maps\\jquery.vmap.algeria.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\maps\\jquery.vmap.algeria.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\maps\\jquery.vmap.argentina.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\maps\\jquery.vmap.argentina.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\maps\\jquery.vmap.brazil.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\maps\\jquery.vmap.brazil.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\maps\\jquery.vmap.europe.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\maps\\jquery.vmap.europe.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\maps\\jquery.vmap.france.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\maps\\jquery.vmap.france.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\maps\\jquery.vmap.germany.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\maps\\jquery.vmap.germany.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\maps\\jquery.vmap.greece.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\maps\\jquery.vmap.greece.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\maps\\jquery.vmap.iran.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\maps\\jquery.vmap.iran.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\maps\\jquery.vmap.iraq.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\maps\\jquery.vmap.iraq.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\maps\\jquery.vmap.russia.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\maps\\jquery.vmap.russia.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\maps\\jquery.vmap.usa.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\maps\\jquery.vmap.usa.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\maps\\jquery.vmap.world.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\maps\\jquery.vmap.world.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\masonry.pkgd.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\masonry.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\mediaelement-and-player.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\mediaelement-and-player.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\moment.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\morris.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\morris.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\nouislider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\raphael.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\raphael.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\respond.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\respond.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\select2.full.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\select2.full.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\silverlightmediaelement.xap",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\silverlightmediaelement.xap"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\js\\plugins\\summernote.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins\\summernote.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\media\\demo.mp3",
+      "PackagePath": "staticwebassets\\asset\\media\\demo.mp3"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\asset\\media\\demo.mp4",
+      "PackagePath": "staticwebassets\\asset\\media\\demo.mp4"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\merve\\Desktop\\.Net Eğitimi\\Projeler\\HamburgerciUygulamasi\\HamburgerciUygulamasi.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.HamburgerciUygulamasi.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.HamburgerciUygulamasi.UI.props",
+      "PackagePath": "build\\HamburgerciUygulamasi.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.HamburgerciUygulamasi.UI.props",
+      "PackagePath": "buildMultiTargeting\\HamburgerciUygulamasi.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.HamburgerciUygulamasi.UI.props",
+      "PackagePath": "buildTransitive\\HamburgerciUygulamasi.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

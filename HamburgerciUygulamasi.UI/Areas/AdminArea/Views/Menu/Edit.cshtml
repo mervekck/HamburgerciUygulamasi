@@ -1,0 +1,44 @@
+﻿@using HamburgerciUygulamasi.UI.Areas.AdminArea.Models.VM
+@{
+    ViewData["Title"] = "Edit";
+}
+@model MenuEditVM
+<h2>Edit</h2>
+
+<div id="content">
+    <div class="col-md-12 top-20 padding-0">
+        <div class="col-md-12">
+            <div class="panel">
+                <div class="row">
+                    <div class="col-md-4">
+                        <form asp-action="Edit" asp-controller="Menu" method="post" asp-area="AdminArea" enctype="multipart/form-data">
+                            <div class="mb-3">
+                                <label asp-for="Id" class="form-label">ID</label>
+                                <input type="hidden" asp-for="Id" class="form-control" />
+                            </div>
+                            <div class="mb-3">
+                                <label asp-for="Name" class="form-label">Name</label>
+                                <input asp-for="Name" class="form-control" placeholder="Enter extra material name" />
+                                <span asp-validation-for="Name" class="text-danger"></span>
+                            </div>
+                            <div class="mb-3">
+                                <label asp-for="Price" class="form-label">Price</label>
+                                <input asp-for="Price" class="form-control" type="number" step="0.01" placeholder="Enter extra material price">
+                                <span asp-validation-for="Price" class="text-danger"></span>
+                            </div>
+                            <div class="mb-3">
+                                <label asp-for="Picture_"></label>
+                                <input type="file" name="Picture_" class="form-control" />
+                                <span asp-validation-for="Picture_" class="text-danger"></span>
+                            </div>
+                            <div class="mb-3">
+                                <button type="submit" class="btn btn-primary">Save</button>
+                            </div>
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
